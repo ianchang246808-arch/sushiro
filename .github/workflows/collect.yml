@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
+    inputs:
+      calls:
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -17,7 +21,7 @@ jobs:
       - name: Collect
         run: |
           M=$(date -u +%M)
-          if [ $((10#$M % 15)) -lt 5 ]; then python3 collect.py --calls; else python3 collect.py; fi
+          if [ "${{ inputs.calls }}" = "true" ] || [ $((10#$M % 15)) -lt 5 ]; then python3 collect.py --calls; else python3 collect.py; fi
       - name: Save
         run: |
           git config user.name "sushiro-bot"
