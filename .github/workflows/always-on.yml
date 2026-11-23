@@ -1,0 +1,39 @@
+name: always-on
+# One long job that collects every 10 minutes for ~5h40m, then starts its own
+# next run, so collection does not depend on GitHub's cron timer.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: always-on
+  cancel-in-progress: false
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect every 10 minutes
+        run: |
+          git config user.name "sushiro-bot"
+          git config user.email "actions@users.noreply.github.com"
+          end=$(( $(date +%s) + 340*60 ))
+          i=0
+          while [ $(date +%s) -lt $end ]; do
+            start=$(date +%s)
+            if [ $((i % 3)) -eq 0 ]; then python3 collect.py --calls || true; else python3 collect.py || true; fi
+            git add data
+            if ! git diff --cached --quiet; then
+              git commit -q -m "snapshot $(date -u +%FT%TZ)"
+              for t in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+            fi
+            i=$((i+1))
+            sleep $(( 600 - ($(date +%s) - start) > 0 ? 600 - ($(date +%s) - start) : 1 ))
+          done
+      - name: Start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run always-on.yml --repo ${{ github.repository }} --ref main
