@@ -1,0 +1,138 @@
+store_key,market,store,area,tier,age_class,status,wait_min,waiting_groups,opened,as_of_local
+TH-40,TH,Central Phuket Festival,จังหวัดภูเก็ต,next-wave,mature,OPEN,20,25,2025-11-04,2026-11-23 16:27
+TH-2,TH,Future Park Rangsit,จังหวัดปทุมธานี,next-wave,unknown,OPEN,20,24,,2026-11-23 16:27
+TH-14,TH,Central Pinklao,กรุงเทพมหานคร,prime,unknown,OPEN,20,23,,2026-11-23 16:27
+HK-35,HK,"New Town Plaza Phase 3, Sha Tin",沙田區,prime,mature,OPEN,20,22,2025-01-16,2026-11-23 17:27
+HK-7,HK,Tuen Mun Town Plaza,屯門區,prime,mature,OPEN,20,22,2021-02-26,2026-11-23 17:27
+HK-12,HK,Kwai Fong,葵青區,prime,mature,OPEN,20,21,2021-09-30,2026-11-23 17:27
+TH-35,TH,Central Chiangmai,จังหวัดเชียงใหม่,next-wave,mature,OPEN,25,20,2025-06-24,2026-11-23 16:27
+TH-32,TH,Major Ratchayothin,กรุงเทพมหานคร,prime,mature,OPEN,20,18,2025-02-15,2026-11-23 16:27
+TH-51,TH,Central Khonkaen Campus,จังหวัดขอนแก่น,next-wave,new,OPEN,15,16,2026-10-06,2026-11-23 16:27
+HK-9,HK,Tai Po,大埔區,prime,mature,OPEN,15,15,2021-06-14,2026-11-23 17:27
+HK-33,HK,Maritime Square 1,葵青區,prime,mature,OPEN,10,11,2024-09-27,2026-11-23 17:27
+HK-20,HK,Ma On Shan,沙田區,prime,mature,OPEN,10,7,2022-12-15,2026-11-23 17:27
+TH-4,TH,CentralPlaza Grand Rama 9,กรุงเทพมหานคร,prime,unknown,OPEN,10,5,,2026-11-23 16:27
+TH-36,TH,Union Mall,กรุงเทพมหานคร,prime,mature,OPEN,5,1,2025-07-22,2026-11-23 16:27
+TH-41,TH,Fashion Island,กรุงเทพมหานคร,prime,new,DISCONNECTED,5,0,2025-11-27,2026-11-23 16:27
+HK-22,HK,Tsim Sha Tsui Granville Road,油尖旺區,prime,mature,OPEN,0,0,2023-05-18,2026-11-23 17:27
+HK-14,HK,Jordan JD Mall,油尖旺區,prime,mature,OPEN,0,0,2022-03-12,2026-11-23 17:27
+HK-2,HK,Whampoa Deli Place,九龍城區,prime,mature,OPEN,0,0,2020-01-08,2026-11-23 17:27
+HK-10,HK,Mong Kok,油尖旺區,prime,mature,OPEN,0,0,2021-08-23,2026-11-23 17:27
+HK-43,HK,Whampoa Fashion World,九龍城區,prime,new,OPEN,0,0,2026-01-15,2026-11-23 17:27
+HK-30,HK,Olympian City 2,九龍城區,prime,mature,OPEN,0,0,2024-04-25,2026-11-23 17:27
+HK-8,HK,Sheung Wan,中西區,prime,mature,OPEN,0,0,2021-04-18,2026-11-23 17:27
+HK-18,HK,Causeway Bay Plaza 2,灣仔區,prime,mature,OPEN,0,0,2022-09-19,2026-11-23 17:27
+HK-27,HK,Mong Kok East Moko,油尖旺區,prime,mature,OPEN,0,0,2023-12-14,2026-11-23 17:27
+HK-46,HK,Wan Chai Emperor Group Centre,灣仔區,prime,new,OPEN,0,0,2026-10-02,2026-11-23 17:27
+HK-37,HK,Harbour North Phase 2,東區,prime,mature,OPEN,0,0,2025-08-28,2026-11-23 17:27
+HK-29,HK,Nam Cheong V-Walk,深水埗區,prime,mature,OPEN,0,0,2024-02-01,2026-11-23 17:27
+HK-47,HK,Dragon Centre,深水埗區,prime,new,OPEN,0,0,2026-10-05,2026-11-23 17:27
+HK-36,HK,Kai Tak Mall 2,九龍城區,prime,mature,OPEN,0,0,2025-04-24,2026-11-23 17:27
+HK-5,HK,Lok Fu,黃大仙區,prime,mature,OPEN,0,0,2020-09-25,2026-11-23 17:27
+HK-21,HK,San Po Kong Mikiki,黃大仙區,prime,mature,OPEN,0,0,2023-02-24,2026-11-23 17:27
+HK-3,HK,Lai Chi Kok,深水埗區,prime,mature,OPEN,0,0,2020-03-25,2026-11-23 17:27
+HK-19,HK,Quarry Bay,東區,prime,mature,OPEN,0,0,2022-11-18,2026-11-23 17:27
+HK-38,HK,Kowloon Bay Telford Plaza 2,觀塘區,prime,mature,OPEN,0,0,2025-09-15,2026-11-23 17:27
+HK-4,HK,Wong Tai Sin,黃大仙區,prime,mature,OPEN,0,0,2020-05-18,2026-11-23 17:27
+HK-44,HK,Kowloon Bay Amoy,觀塘區,prime,new,OPEN,0,0,2026-06-08,2026-11-23 17:27
+HK-31,HK,Kwun Tong,觀塘區,prime,mature,OPEN,0,0,2024-07-25,2026-11-23 17:27
+HK-34,HK,Aberdeen Port Centre Shopping Arcade,南區,prime,mature,OPEN,0,0,2024-12-20,2026-11-23 17:27
+HK-6,HK,Lam Tin,觀塘區,prime,mature,OPEN,0,0,2020-12-21,2026-11-23 17:27
+HK-32,HK,Yau Tong,觀塘區,prime,mature,OPEN,0,0,2024-09-09,2026-11-23 17:27
+HK-15,HK,Po Lam,西貢區,prime,mature,OPEN,0,0,2022-04-07,2026-11-23 17:27
+HK-42,HK,Shatin Centre,沙田區,prime,new,OPEN,0,0,2025-12-12,2026-11-23 17:27
+HK-25,HK,Luk Yeung,荃灣區,prime,mature,OPEN,0,0,2023-09-08,2026-11-23 17:27
+HK-26,HK,TKO Plaza,西貢區,prime,mature,OPEN,0,0,2023-09-28,2026-11-23 17:27
+HK-11,HK,Hang Hau,西貢區,prime,mature,OPEN,0,0,2021-09-03,2026-11-23 17:27
+HK-16,HK,Tsuen Wan Plaza,荃灣區,prime,mature,OPEN,0,0,2022-05-07,2026-11-23 17:27
+HK-23,HK,Wo Che,沙田區,prime,mature,OPEN,0,0,2023-07-14,2026-11-23 17:27
+HK-45,HK,The LOHAS,西貢區,prime,new,OPEN,0,0,2026-07-10,2026-11-23 17:27
+HK-39,HK,Tai Wo Plaza,大埔區,prime,mature,OPEN,0,0,2025-09-26,2026-11-23 17:27
+HK-41,HK,Fanling Centre,北區,prime,mature,OPEN,0,0,2025-11-17,2026-11-23 17:27
+HK-17,HK,Yuen Long Plaza,元朗區,prime,mature,OPEN,0,0,2022-05-26,2026-11-23 17:27
+HK-28,HK,Tuen Mun Waldorf Avenue,屯門區,prime,mature,OPEN,0,0,2023-12-21,2026-11-23 17:27
+HK-40,HK,KOLOUR Yuen Long,元朗區,prime,mature,OPEN,0,0,2025-10-23,2026-11-23 17:27
+HK-24,HK,Sheung Shui Spot,北區,prime,mature,OPEN,0,0,2023-07-21,2026-11-23 17:27
+HK-13,HK,Tin Shui Wai T Town,元朗區,prime,mature,OPEN,0,0,2021-11-08,2026-11-23 17:27
+TH-7,TH,The Mall Lifestore Thapra,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-30,TH,Central Bangrak,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2024-12-19,2026-11-23 16:27
+TH-12,TH,ICONSIAM,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-29,TH,Central Rama 3,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2024-12-03,2026-11-23 16:27
+TH-43,TH,Samyan Mitrtown,กรุงเทพมหานคร,prime,new,OPEN,0,0,2026-02-10,2026-11-23 16:27
+TH-28,TH,One Bangkok,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2024-10-25,2026-11-23 16:27
+TH-25,TH,MBK Center,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2024-06-19,2026-11-23 16:27
+TH-50,TH,Siam Square One,กรุงเทพมหานคร,prime,new,OPEN,0,0,2026-09-01,2026-11-23 16:27
+TH-15,TH,Siam Paragon,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-1,TH,Central World,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-10,TH,Seacon Bangkae,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-9,TH,Central Rama 2,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-22,TH,Century Victory Monument,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2024-03-13,2026-11-23 16:27
+TH-8,TH,The Emporium,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-42,TH,Little Walk Prannok Phutthamonthon,กรุงเทพมหานคร,prime,new,OPEN,0,0,2026-01-28,2026-11-23 16:27
+TH-16,TH,La Villa Ari,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-19,TH,The Mall Lifestore Bangkae,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-21,TH,Century Onnut,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-46,TH,True Digital Park,กรุงเทพมหานคร,prime,new,OPEN,0,0,2026-05-19,2026-11-23 16:27
+TH-20,TH,Central Westville,จังหวัดนนทบุรี,next-wave,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-44,TH,Central Bangna,กรุงเทพมหานคร,prime,new,OPEN,0,0,2026-03-03,2026-11-23 16:27
+TH-3,TH,Seacon Square Srinagarindra,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-31,TH,Parc Bangna,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2025-02-04,2026-11-23 16:27
+TH-11,TH,Central Eastville,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-18,TH,The Mall Lifestore Bangkapi,กรุงเทพมหานคร,prime,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-17,TH,The Mall Lifestore Ngamwongwan,จังหวัดนนทบุรี,next-wave,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-6,TH,Mega Bangna,จังหวัดสมุทรปราการ,next-wave,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-49,TH,The Walk Kaset Nawamin,กรุงเทพมหานคร,prime,new,OPEN,0,0,2026-07-28,2026-11-23 16:27
+TH-5,TH,CentralPlaza WestGate,จังหวัดนนทบุรี,next-wave,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-27,TH,Charn Chaengwattana,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2024-10-02,2026-11-23 16:27
+TH-39,TH,Central Chaengwattana,จังหวัดนนทบุรี,next-wave,mature,OPEN,0,0,2025-10-21,2026-11-23 16:27
+TH-52,TH,Live Ramintra,กรุงเทพมหานคร,prime,new,OPEN,0,0,2026-11-17,2026-11-23 16:27
+TH-34,TH,Robinson Suvarnabhumi,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2025-06-03,2026-11-23 16:27
+TH-38,TH,Market Place Theprak,กรุงเทพมหานคร,prime,mature,OPEN,0,0,2025-09-23,2026-11-23 16:27
+TH-26,TH,Central Salaya,จังหวัดนครปฐม,next-wave,mature,OPEN,0,0,2024-09-04,2026-11-23 16:27
+TH-13,TH,Robinson Lifestyle Ratchaphruek,จังหวัดนนทบุรี,next-wave,unknown,OPEN,0,0,,2026-11-23 16:27
+TH-48,TH,Robinson Srisaman,จังหวัดนนทบุรี,next-wave,new,OPEN,0,0,2026-07-07,2026-11-23 16:27
+TH-47,TH,Central Nakhon Pathom,จังหวัดนครปฐม,next-wave,new,OPEN,0,0,2026-06-09,2026-11-23 16:27
+TH-23,TH,Central Chonburi,จังหวัดชลบุรี,next-wave,mature,OPEN,0,0,2024-05-14,2026-11-23 16:27
+TH-33,TH,Robinson Lifestyle Chonburi ,จังหวัดชลบุรี,next-wave,mature,OPEN,0,0,2025-03-24,2026-11-23 16:27
+TH-24,TH,Central Pattaya,จังหวัดชลบุรี,next-wave,mature,OPEN,0,0,2024-06-05,2026-11-23 16:27
+TH-37,TH,Central Rayong,จังหวัดระยอง,next-wave,mature,OPEN,0,0,2025-08-04,2026-11-23 16:27
+TH-45,TH,Central Chiangmai Airport,จังหวัดเชียงใหม่,next-wave,new,OPEN,0,0,2026-03-31,2026-11-23 16:27
+SG-17,SG,Sushiro Holland Road Shopping Centre,Central Singapore,prime,mature,OPEN,0,0,2025-08-22,2026-11-23 17:27
+SG-1,SG,Sushiro Tiong Bahru Plaza,Central Singapore,prime,mature,OPEN,0,0,2019-08-14,2026-11-23 17:27
+SG-2,SG,Sushiro Isetan Scotts,Central Singapore,prime,mature,OPEN,0,0,2020-01-31,2026-11-23 17:27
+SG-27,SG,Sushiro Great World,Central Singapore,prime,unknown,OPEN,0,0,2026-11-24,2026-11-23 17:27
+SG-10,SG,Sushiro Wisma Atria,Central Singapore,prime,mature,OPEN,0,0,2023-07-19,2026-11-23 17:27
+SG-24,SG,Sushiro Orchard Gateway,Central Singapore,prime,new,OPEN,0,0,2026-08-21,2026-11-23 17:27
+SG-19,SG,Sushiro New Bahru,Central Singapore,prime,new,OPEN,0,0,2026-04-28,2026-11-23 17:27
+SG-15,SG,Sushiro The LINQ @ Beauty World,North West,prime,mature,OPEN,0,0,2025-05-23,2026-11-23 17:27
+SG-22,SG,Sushiro Chinatown Point,Central Singapore,prime,new,OPEN,0,0,2026-06-05,2026-11-23 17:27
+SG-18,SG,Sushiro Square 2,Central Singapore,prime,new,OPEN,0,0,2026-01-08,2026-11-23 17:27
+SG-21,SG,Sushiro 100AM,Central Singapore,prime,new,OPEN,0,0,2026-05-08,2026-11-23 17:27
+SG-6,SG,Sushiro Suntec City,Central Singapore,prime,mature,OPEN,0,0,2020-12-30,2026-11-23 17:27
+SG-13,SG,Sushiro Thomson Plaza,Central Singapore,prime,mature,OPEN,0,0,2024-08-01,2026-11-23 17:27
+SG-14,SG,Sushiro Perennial Business City,North West,prime,mature,OPEN,0,0,2025-03-12,2026-11-23 17:27
+SG-26,SG,Sushiro Bukit Panjang Plaza,North West,prime,new,OPEN,0,0,2026-10-30,2026-11-23 17:27
+SG-23,SG,Sushiro My Village,Central Singapore,prime,new,OPEN,0,0,2026-07-07,2026-11-23 17:27
+SG-7,SG,Sushiro Lot One,North West,prime,mature,OPEN,0,0,2021-01-28,2026-11-23 17:27
+SG-16,SG,Sushiro Mandai Wildlife Reserve,North West,prime,mature,OPEN,0,0,2025-06-11,2026-11-23 17:27
+SG-25,SG,Sushiro Hougang Mall,North East,prime,new,OPEN,0,0,2026-10-01,2026-11-23 17:27
+SG-3,SG,Sushiro Causeway,North West,prime,mature,OPEN,0,0,2020-03-24,2026-11-23 17:27
+SG-4,SG,Sushiro Bedok Mall,South East,prime,mature,OPEN,0,0,2020-09-07,2026-11-23 17:27
+SG-5,SG,Sushiro Waterway Point,North East,prime,mature,OPEN,0,0,2020-11-06,2026-11-23 17:27
+SG-11,SG,Sushiro Tampines One,Central Singapore,prime,mature,OPEN,0,0,2024-07-10,2026-11-23 17:27
+SG-20,SG,Sushiro Our Tampines Hub,North East,prime,new,OPEN,0,0,2026-04-10,2026-11-23 17:27
+SG-9,SG,Sushiro Jewel Changi,South East,prime,mature,OPEN,0,0,2022-07-06,2026-11-23 17:27
+ID-10,ID,Grand Indonesia Mall, ,next-wave,new,OPEN,0,0,2025-12-01,2026-11-23 16:27
+ID-4,ID,Pacific Place Mall, ,next-wave,mature,OPEN,0,0,2024-09-27,2026-11-23 16:27
+ID-3,ID,Gandaria City Mall, ,next-wave,mature,OPEN,0,0,2024-08-30,2026-11-23 16:27
+ID-7,ID,Kota Kasablanka Mall, ,next-wave,mature,OPEN,0,0,2025-02-14,2026-11-23 16:27
+ID-2,ID,Puri Indah Mall, ,next-wave,mature,OPEN,0,0,2024-06-21,2026-11-23 16:27
+ID-1,ID,Pondok Indah Mall, ,next-wave,unknown,OPEN,0,0,,2026-11-23 16:27
+ID-9,ID,K Mall, ,next-wave,mature,OPEN,0,0,2025-11-11,2026-11-23 16:27
+ID-8,ID,Emporium Pluit Mall, ,next-wave,mature,OPEN,0,0,2025-09-04,2026-11-23 16:27
+ID-5,ID,Mall of Indonesia, ,next-wave,mature,OPEN,0,0,2024-12-20,2026-11-23 16:27
+ID-6,ID,Margo City Mall, ,next-wave,mature,OPEN,0,0,2025-01-21,2026-11-23 16:27
+MY-1,MY,Suria KLCC, ,next-wave,mature,OPEN,0,0,2025-02-07,2026-11-23 17:27
+MY-4,MY,KL Midtown,　,next-wave,new,OPEN,0,0,2026-11-05,2026-11-23 17:27
+MY-2,MY,1 Utama,　,next-wave,new,OPEN,0,0,2026-07-10,2026-11-23 17:27
+MY-3,MY,Sunway Pyramid, ,next-wave,new,OPEN,0,0,2026-09-04,2026-11-23 17:27

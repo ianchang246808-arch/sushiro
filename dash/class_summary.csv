@@ -1,0 +1,12 @@
+dimension,class,stores,avg_groups_per_store,avg_daily_tickets
+tier,prime,105,0.58,126.0
+tier,next-wave,32,1.39,155.0
+age,mature,83,0.73,131.0
+age,new,31,0.38,211.0
+age,unknown,23,1.43,124.0
+tier_x_age,prime / mature,66,0.66,148.0
+tier_x_age,prime / new,23,0.01,
+tier_x_age,prime / unknown,16,1.01,60.0
+tier_x_age,next-wave / unknown,7,2.37,313.0
+tier_x_age,next-wave / mature,17,0.99,100.0
+tier_x_age,next-wave / new,8,1.39,211.0
