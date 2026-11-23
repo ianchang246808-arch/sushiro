@@ -37,6 +37,10 @@ def get_json(url, tries=2):
 
 
 def append(path, fields, rows):
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            if f.readline().strip() != ",".join(fields):
+                path = path.replace(".csv", "_v2.csv")
     new = not os.path.exists(path)
     with open(path, "a", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fields)
