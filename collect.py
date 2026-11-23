@@ -13,6 +13,7 @@ MARKETS = {  # host, lat, lon, UTC offset (hours)
     "SG": ("sushipass.sushiro.com.sg", 1.3, 103.8, 8),
     "ID": ("sushipass.sushiro.co.id", -6.2, 106.8, 7),
     "MY": ("sushipass.sushiro.com.my", 3.15, 101.7, 8),
+    "TW": ("sushipass.sushiro.com.tw", 25.04, 121.5, 8),
 }
 SNAP_FIELDS = ["ts_utc", "ts_local", "market", "store_id", "name", "name_en",
                "area", "region", "store_status", "wait_min", "waiting_groups",

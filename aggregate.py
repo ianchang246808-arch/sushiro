@@ -23,7 +23,7 @@ import csv, glob, os, collections
 from datetime import date, datetime, timezone
 
 TODAY = datetime.now(timezone.utc).date()
-PRIME_MARKETS = {"HK", "SG"}
+PRIME_MARKETS = {"HK", "SG", "TW"}
 NEXTWAVE_MARKETS = {"ID", "MY"}
 BANGKOK = "กรุงเทพมหานคร"  # Bangkok Metropolis
 TICKET_OUTLIER = 4000  # a daily max ticket above this is flagged, not averaged
