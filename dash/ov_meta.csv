@@ -1,0 +1,138 @@
+store_key,market,store,name_local,area,tier,age_class,opened,lat,lon,avg_groups_per_store,avg_daily_tickets,admin1
+TH-4,TH,CentralPlaza Grand Rama 9,CentralPlaza Grand Rama 9,Bangkok,prime,unknown,,13.7586,100.5662,60.44,612.0,Bangkok Metropolis
+TH-36,TH,Union Mall,Union Mall,Bangkok,prime,mature,2025-07-22,13.8135,100.5618,44.44,528.0,Bangkok Metropolis
+TH-51,TH,Central Khonkaen Campus,Central Khonkaen Campus,Khon Kaen,next-wave,new,2026-10-06,16.463,102.8309,38.2,815.0,Khon Kaen
+TH-32,TH,Major Ratchayothin,Major Ratchayothin,Bangkok,prime,mature,2025-02-15,13.8286,100.5682,36.61,503.0,Bangkok Metropolis
+HK-7,HK,Tuen Mun Town Plaza,屯門市廣場店,New Territories,prime,mature,2021-02-26,22.39319,113.97723,35.56,566.0,Tuen Mun
+HK-12,HK,Kwai Fong,葵芳店,New Territories,prime,mature,2021-09-30,22.35713,114.12678,32.89,558.0,Kwai Tsing
+TH-14,TH,Central Pinklao,Central Pinklao,Bangkok,prime,unknown,,13.7784,100.47631,31.22,419.0,Bangkok Metropolis
+TH-23,TH,Central Chonburi,Central Chonburi,Chonburi,next-wave,mature,2024-05-14,13.336,100.9702,30.38,400.0,Chon Buri
+HK-33,HK,Maritime Square 1,青衣城1期店,New Territories,prime,mature,2024-09-27,22.35892,114.10842,27.42,395.0,Kwai Tsing
+HK-27,HK,Mong Kok East Moko,旺角東Moko店,Kowloon,prime,mature,2023-12-14,22.32328,114.17229,27.39,440.0,Yau Tsim Mong
+TH-35,TH,Central Chiangmai,Central Chiangmai,Chiang Mai,next-wave,mature,2025-06-24,18.8064,99.0179,27.15,475.0,Chiang Mai
+TH-2,TH,Future Park Rangsit,Future Park Rangsit,Pathum Thani,next-wave,unknown,,13.98944,100.61806,25.46,699.0,Pathum Thani
+TH-28,TH,One Bangkok,One Bangkok,Bangkok,prime,mature,2024-10-25,13.7253,100.5473,25.2,374.0,Bangkok Metropolis
+TH-40,TH,Central Phuket Festival,Central Phuket Festival,Phuket,next-wave,mature,2025-11-04,7.8922,98.3674,24.93,495.0,Phuket
+TH-9,TH,Central Rama 2,Central Rama 2,Bangkok,prime,unknown,,13.6639,100.4377,23.51,316.0,Bangkok Metropolis
+HK-10,HK,Mong Kok,旺角店,Kowloon,prime,mature,2021-08-23,22.31766,114.17001,22.05,391.0,Yau Tsim Mong
+HK-20,HK,Ma On Shan,馬鞍山店,New Territories,prime,mature,2022-12-15,22.42393,114.23133,20.97,476.0,Sha Tin
+HK-35,HK,"New Town Plaza Phase 3, Sha Tin",沙田新城市廣場3期店,New Territories,prime,mature,2025-01-16,22.38075,114.18749,18.79,485.0,Sha Tin
+TH-8,TH,The Emporium,The Emporium,Bangkok,prime,unknown,,13.7302,100.5687,17.46,325.0,Bangkok Metropolis
+HK-9,HK,Tai Po,大埔店,New Territories,prime,mature,2021-06-14,22.45139,114.17023,14.31,331.0,Tai Po
+TH-16,TH,La Villa Ari,La Villa Ari,Bangkok,prime,unknown,,13.7799,100.545,13.61,375.0,Bangkok Metropolis
+TH-52,TH,Live Ramintra,Live Ramintra,Bangkok,prime,new,2026-11-17,13.8411,100.6597,13.49,320.0,Bangkok Metropolis
+HK-26,HK,TKO Plaza,將軍澳廣場店,New Territories,prime,mature,2023-09-28,22.3083,114.26277,13.28,237.0,Sai Kung
+HK-30,HK,Olympian City 2,奧海城 2 期店,Kowloon,prime,mature,2024-04-25,22.31677,114.16159,13.25,340.0,Kowloon City
+TH-1,TH,Central World,Central World,Bangkok,prime,unknown,,13.74645,100.53757,13.1,300.0,Bangkok Metropolis
+HK-16,HK,Tsuen Wan Plaza,荃灣廣場店,New Territories,prime,mature,2022-05-07,22.37115,114.11113,12.14,312.0,Tsuen Wan
+TH-21,TH,Century Onnut,Century Onnut,Bangkok,prime,unknown,,13.7058,100.6017,11.56,183.0,Bangkok Metropolis
+HK-22,HK,Tsim Sha Tsui Granville Road,尖沙咀加連威老道店,Kowloon,prime,mature,2023-05-18,22.29957,114.17261,11.49,373.0,Yau Tsim Mong
+HK-8,HK,Sheung Wan,上環店,Hong Kong Island,prime,mature,2021-04-18,22.28639,114.15354,11.47,272.0,Central and Western
+TH-38,TH,Market Place Theprak,Market Place Theprak,Bangkok,prime,mature,2025-09-23,13.8774,100.6461,11.17,158.0,Bangkok Metropolis
+HK-28,HK,Tuen Mun Waldorf Avenue,屯門華都店,New Territories,prime,mature,2023-12-21,22.39184,113.97805,10.67,290.0,Tuen Mun
+HK-37,HK,Harbour North Phase 2,北角匯2期店,Hong Kong Island,prime,mature,2025-08-28,22.29273,114.20123,10.33,248.0,Eastern
+HK-45,HK,The LOHAS,康城店,New Territories,prime,new,2026-07-10,22.29676,114.26918,10.21,281.0,Sai Kung
+TH-18,TH,The Mall Lifestore Bangkapi,The Mall Lifestore Bangkapi,Bangkok,prime,unknown,,13.7661,100.6433,9.44,220.0,Bangkok Metropolis
+HK-15,HK,Po Lam,寶琳店,New Territories,prime,mature,2022-04-07,22.32284,114.25682,9.17,192.0,Sai Kung
+TH-45,TH,Central Chiangmai Airport,Central Chiangmai Airport,Chiang Mai,next-wave,new,2026-03-31,18.7684,98.976,9.17,272.0,Chiang Mai
+HK-25,HK,Luk Yeung,荃灣綠楊店,New Territories,prime,mature,2023-09-08,22.37291,114.11916,9.03,158.0,Tsuen Wan
+HK-21,HK,San Po Kong Mikiki,新蒲崗Mikiki店,Kowloon,prime,mature,2023-02-24,22.33326,114.19613,8.92,175.0,Wong Tai Sin
+HK-42,HK,Shatin Centre,沙田中心店,New Territories,prime,new,2025-12-12,22.38239,114.19074,8.87,225.0,Sha Tin
+HK-3,HK,Lai Chi Kok,荔枝角店,Kowloon,prime,mature,2020-03-25,22.3392,114.15205,8.86,222.0,Sham Shui Po
+HK-24,HK,Sheung Shui Spot,上水匯店,New Territories,prime,mature,2023-07-21,22.50311,114.12793,8.78,172.0,North
+TH-6,TH,Mega Bangna,Mega Bangna,Samut Prakan,next-wave,unknown,,13.6463,100.6807,8.71,263.0,Samut Prakan
+HK-29,HK,Nam Cheong V-Walk,南昌V-Walk店,Kowloon,prime,mature,2024-02-01,22.32658,114.1544,8.39,166.0,Sham Shui Po
+TH-12,TH,ICONSIAM,ICONSIAM,Bangkok,prime,unknown,,13.7263,100.5102,8.02,189.0,Bangkok Metropolis
+HK-43,HK,Whampoa Fashion World,黃埔時尚坊店,Kowloon,prime,new,2026-01-15,22.30488,114.18881,7.95,185.0,Kowloon City
+HK-36,HK,Kai Tak Mall 2,啟德零售館2店,Kowloon,prime,mature,2025-04-24,22.32615,114.19575,7.9,195.0,Kowloon City
+HK-44,HK,Kowloon Bay Amoy,九龍灣淘大店,Kowloon,prime,new,2026-06-08,22.32468,114.21632,7.54,165.0,Kwun Tong
+HK-5,HK,Lok Fu,樂富店,Kowloon,prime,mature,2020-09-25,22.33873,114.18688,7.47,217.0,Wong Tai Sin
+TH-13,TH,Robinson Lifestyle Ratchaphruek,Robinson Lifestyle Ratchaphruek,Nonthaburi,next-wave,unknown,,13.9359,100.4559,7.38,169.0,Nonthaburi
+HK-18,HK,Causeway Bay Plaza 2,銅鑼灣廣場2期店,Hong Kong Island,prime,mature,2022-09-19,22.28052,114.18214,7.31,188.0,Wan Chai
+TH-3,TH,Seacon Square Srinagarindra,Seacon Square Srinagarindra,Bangkok,prime,unknown,,13.6943,100.6483,6.74,203.0,Bangkok Metropolis
+HK-13,HK,Tin Shui Wai T Town,天水圍 T Town店,New Territories,prime,mature,2021-11-08,22.46154,113.99754,6.67,274.0,Yuen Long
+TH-29,TH,Central Rama 3,Central Rama 3,Bangkok,prime,mature,2024-12-03,13.6982,100.5374,6.64,148.0,Bangkok Metropolis
+TH-11,TH,Central Eastville,Central Eastville,Bangkok,prime,unknown,,13.8032,100.6146,6.15,219.0,Bangkok Metropolis
+TH-46,TH,True Digital Park,True Digital Park,Bangkok,prime,new,2026-05-19,13.6852,100.6113,6.07,158.0,Bangkok Metropolis
+HK-31,HK,Kwun Tong,觀塘店,Kowloon,prime,mature,2024-07-25,22.31095,114.2254,6.06,281.0,Kwun Tong
+HK-11,HK,Hang Hau,坑口店,New Territories,prime,mature,2021-09-03,22.31706,114.26431,6.03,228.0,Sai Kung
+TH-34,TH,Robinson Suvarnabhumi,Robinson Suvarnabhumi,Bangkok,prime,mature,2025-06-03,13.72,100.725,5.94,168.0,Bangkok Metropolis
+TH-5,TH,CentralPlaza WestGate,CentralPlaza WestGate,Nonthaburi,next-wave,unknown,,13.8771,100.4113,5.66,181.0,Nonthaburi
+HK-38,HK,Kowloon Bay Telford Plaza 2,九龍灣德福廣場2期店,Kowloon,prime,mature,2025-09-15,22.32067,114.2135,5.62,269.0,Kwun Tong
+HK-17,HK,Yuen Long Plaza,元朗廣場店,New Territories,prime,mature,2022-05-26,22.44478,114.02367,5.47,208.0,Yuen Long
+TH-24,TH,Central Pattaya,Central Pattaya,Chonburi,next-wave,mature,2024-06-05,12.9341,100.8841,5.29,284.0,Chon Buri
+HK-14,HK,Jordan JD Mall,佐敦薈店,Kowloon,prime,mature,2022-03-12,22.30496,114.17149,5.25,149.0,Yau Tsim Mong
+TH-47,TH,Central Nakhon Pathom,Central Nakhon Pathom,Nakhon Pathom,next-wave,new,2026-06-09,13.8059,100.0482,4.42,230.0,Nakhon Pathom
+HK-39,HK,Tai Wo Plaza,太和廣場店,New Territories,prime,mature,2025-09-26,22.45135,114.1617,4.33,134.0,Tai Po
+HK-6,HK,Lam Tin,藍田店,Kowloon,prime,mature,2020-12-21,22.30829,114.23517,4.14,120.0,Kwun Tong
+HK-41,HK,Fanling Centre,粉嶺中心店,New Territories,prime,mature,2025-11-17,22.49114,114.14096,3.85,167.0,North
+TH-10,TH,Seacon Bangkae,Seacon Bangkae,Bangkok,prime,unknown,,13.71195,100.43415,3.67,112.0,Bangkok Metropolis
+TH-26,TH,Central Salaya,Central Salaya,Nakhon Pathom,next-wave,mature,2024-09-04,13.7874,100.2763,3.53,148.0,Nakhon Pathom
+TH-37,TH,Central Rayong,Central Rayong,Rayong,next-wave,mature,2025-08-04,12.6963,101.2683,3.53,130.0,Rayong
+HK-40,HK,KOLOUR Yuen Long,元朗千色匯店,New Territories,prime,mature,2025-10-23,22.44277,114.02851,3.21,127.0,Yuen Long
+SG-6,SG,Sushiro Suntec City,Sushiro Suntec City,Central Singapore,prime,mature,2020-12-30,1.29467,103.85989,3.03,234.0,Central Singapore
+TH-50,TH,Siam Square One,Siam Square One,Bangkok,prime,new,2026-09-01,13.7448,100.5338,2.68,83.0,Bangkok Metropolis
+HK-32,HK,Yau Tong,油塘店,Kowloon,prime,mature,2024-09-09,22.29669,114.239,2.67,93.0,Kwun Tong
+TH-7,TH,The Mall Lifestore Thapra,The Mall Lifestore Thapra,Bangkok,prime,unknown,,13.7136,100.48,2.67,119.0,Bangkok Metropolis
+TH-43,TH,Samyan Mitrtown,Samyan Mitrtown,Bangkok,prime,new,2026-02-10,13.734,100.5284,2.44,237.0,Bangkok Metropolis
+HK-23,HK,Wo Che,禾輋店,New Territories,prime,mature,2023-07-14,22.38836,114.19484,2.22,127.0,Sha Tin
+TH-22,TH,Century Victory Monument,Century Victory Monument,Bangkok,prime,mature,2024-03-13,13.7618,100.537,2.13,140.0,Bangkok Metropolis
+HK-4,HK,Wong Tai Sin,黃大仙店,Kowloon,prime,mature,2020-05-18,22.34203,114.19687,2.03,44.0,Wong Tai Sin
+HK-2,HK,Whampoa Deli Place,黃埔享膳坊店,Kowloon,prime,mature,2020-01-08,22.30364,114.18833,1.92,39.0,Kowloon City
+TH-17,TH,The Mall Lifestore Ngamwongwan,The Mall Lifestore Ngamwongwan,Nonthaburi,next-wave,unknown,,13.8567,100.5418,1.81,57.0,Nonthaburi
+SG-10,SG,Sushiro Wisma Atria,Sushiro Wisma Atria,Central Singapore,prime,mature,2023-07-19,1.30373,103.83299,1.81,286.0,Central Singapore
+HK-19,HK,Quarry Bay,鰂魚涌店,Hong Kong Island,prime,mature,2022-11-18,22.28446,114.21312,1.74,130.0,Eastern
+TH-42,TH,Little Walk Prannok Phutthamonthon,Little Walk Prannok Phutthamonthon,Bangkok,prime,new,2026-01-28,13.7517,100.4435,1.49,108.0,Bangkok Metropolis
+HK-47,HK,Dragon Centre,西九龍中心店,Kowloon,prime,new,2026-10-05,22.33085,114.15753,1.18,58.0,Sham Shui Po
+SG-5,SG,Sushiro Waterway Point,Sushiro Waterway Point,North East,prime,mature,2020-11-06,1.40702,103.90292,1.06,202.0,North East
+TH-44,TH,Central Bangna,Central Bangna,Bangkok,prime,new,2026-03-03,13.6685,100.6345,0.97,66.0,Bangkok Metropolis
+TH-20,TH,Central Westville,Central Westville,Nonthaburi,next-wave,unknown,,13.8056,100.4489,0.95,43.0,Nonthaburi
+SG-11,SG,Sushiro Tampines One,Sushiro Tampines One,Central Singapore,prime,mature,2024-07-10,1.35408,103.94491,0.94,277.0,Central Singapore
+TH-15,TH,Siam Paragon,Siam Paragon,Bangkok,prime,unknown,,13.7462,100.5347,0.88,143.0,Bangkok Metropolis
+TH-25,TH,MBK Center,MBK Center,Bangkok,prime,mature,2024-06-19,13.7453,100.5299,0.78,77.0,Bangkok Metropolis
+TH-31,TH,Parc Bangna,Parc Bangna,Bangkok,prime,mature,2025-02-04,13.6668,100.6467,0.78,124.0,Bangkok Metropolis
+SG-4,SG,Sushiro Bedok Mall,Sushiro Bedok Mall,South East,prime,mature,2020-09-07,1.32454,103.92998,0.72,184.0,South East
+HK-34,HK,Aberdeen Port Centre Shopping Arcade,香港仔利港商場店,Hong Kong Island,prime,mature,2024-12-20,22.24913,114.15489,0.69,80.0,Southern
+TH-39,TH,Central Chaengwattana,Central Chaengwattana,Nonthaburi,next-wave,mature,2025-10-21,13.9039,100.5281,0.64,64.0,Nonthaburi
+SG-3,SG,Sushiro Causeway,Sushiro Causeway,North West,prime,mature,2020-03-24,1.43614,103.78602,0.39,141.0,North West
+SG-24,SG,Sushiro Orchard Gateway,Sushiro Orchard Gateway,Central Singapore,prime,new,2026-08-21,1.30079,103.83966,0.36,306.0,Central Singapore
+MY-2,MY,1 Utama,1 Utama,Selangor,next-wave,new,2026-07-10,3.15048,101.61591,0.36,30.0,Selangor
+SG-25,SG,Sushiro Hougang Mall,Sushiro Hougang Mall,North East,prime,new,2026-10-01,1.3727,103.89389,0.33,154.0,North East
+ID-4,ID,Pacific Place Mall,Pacific Place Mall,Jakarta Raya,next-wave,mature,2024-09-27,-6.22431,106.8103,0.32,51.0,Jakarta Raya
+TH-19,TH,The Mall Lifestore Bangkae,The Mall Lifestore Bangkae,Bangkok,prime,unknown,,13.7134,100.4079,0.28,58.0,Bangkok Metropolis
+MY-3,MY,Sunway Pyramid,Sunway Pyramid,Selangor,next-wave,new,2026-09-04,3.07188,101.60589,0.28,13.0,Selangor
+SG-22,SG,Sushiro Chinatown Point,Sushiro Chinatown Point,Central Singapore,prime,new,2026-06-05,1.28566,103.84533,0.25,205.0,Central Singapore
+MY-4,MY,KL Midtown,KL Midtown,Kuala Lumpur,next-wave,new,2026-11-05,3.18139,101.66771,0.25,,Kuala Lumpur
+SG-20,SG,Sushiro Our Tampines Hub,Sushiro Our Tampines Hub,North East,prime,new,2026-04-10,1.35393,103.94088,0.22,121.0,North East
+HK-46,HK,Wan Chai Emperor Group Centre,灣仔英皇集團中心店,Hong Kong Island,prime,new,2026-10-02,22.27724,114.17689,0.18,78.0,Wan Chai
+TH-33,TH,Robinson Lifestyle Chonburi ,Robinson Lifestyle Chonburi ,Chonburi,next-wave,mature,2025-03-24,13.4065,101.0413,0.14,,Chon Buri
+SG-27,SG,Sushiro Great World,Sushiro Great World,Central Singapore,prime,unknown,2026-11-24,1.29383,103.83216,0.14,30.0,Central Singapore
+SG-18,SG,Sushiro Square 2,Sushiro Square 2,Central Singapore,prime,new,2026-01-08,1.32085,103.84437,0.11,295.0,Central Singapore
+SG-14,SG,Sushiro Perennial Business City,Sushiro Perennial Business City,North West,prime,mature,2025-03-12,1.33227,103.74423,0.11,160.0,North West
+TH-48,TH,Robinson Srisaman,Robinson Srisaman,Nonthaburi,next-wave,new,2026-07-07,13.9406,100.5534,0.1,,Nonthaburi
+SG-19,SG,Sushiro New Bahru,Sushiro New Bahru,Central Singapore,prime,new,2026-04-28,1.29292,103.8396,0.08,,Central Singapore
+SG-13,SG,Sushiro Thomson Plaza,Sushiro Thomson Plaza,Central Singapore,prime,mature,2024-08-01,1.35469,103.83138,0.08,,Central Singapore
+SG-9,SG,Sushiro Jewel Changi,Sushiro Jewel Changi,South East,prime,mature,2022-07-06,1.35981,103.98955,0.08,204.0,South East
+SG-17,SG,Sushiro Holland Road Shopping Centre,Sushiro Holland Road Shopping Centre,Central Singapore,prime,mature,2025-08-22,1.31059,103.79561,0.06,,Central Singapore
+SG-23,SG,Sushiro My Village,Sushiro My Village,Central Singapore,prime,new,2026-07-07,1.36504,103.86524,0.06,114.0,Central Singapore
+TH-30,TH,Central Bangrak,Central Bangrak,Bangkok,prime,mature,2024-12-19,13.7197,100.5152,0.05,,Bangkok Metropolis
+TH-49,TH,The Walk Kaset Nawamin,The Walk Kaset Nawamin,Bangkok,prime,new,2026-07-28,13.8302,100.6284,0.05,,Bangkok Metropolis
+ID-6,ID,Margo City Mall,Margo City Mall,Jawa Barat,next-wave,mature,2025-01-21,-6.373,106.8348,0.05,,Jawa Barat
+SG-1,SG,Sushiro Tiong Bahru Plaza,Sushiro Tiong Bahru Plaza,Central Singapore,prime,mature,2019-08-14,1.28653,103.8273,0.03,,Central Singapore
+SG-2,SG,Sushiro Isetan Scotts,Sushiro Isetan Scotts,Central Singapore,prime,mature,2020-01-31,1.3056,103.83147,0.03,,Central Singapore
+SG-7,SG,Sushiro Lot One,Sushiro Lot One,North West,prime,mature,2021-01-28,1.38537,103.74482,0.03,153.0,North West
+TH-27,TH,Charn Chaengwattana,Charn Chaengwattana,Bangkok,prime,mature,2024-10-02,13.8947,100.5576,0.02,,Bangkok Metropolis
+ID-10,ID,Grand Indonesia Mall,Grand Indonesia Mall,Jakarta Raya,next-wave,new,2025-12-01,-6.19602,106.8221,0.02,,Jakarta Raya
+ID-9,ID,K Mall,K Mall,Jakarta Raya,next-wave,mature,2025-11-11,-6.14977,106.84655,0.02,1.0,Jakarta Raya
+ID-8,ID,Emporium Pluit Mall,Emporium Pluit Mall,Jakarta Raya,next-wave,mature,2025-09-04,-6.12713,106.7912,0.02,,Jakarta Raya
+ID-5,ID,Mall of Indonesia,Mall of Indonesia,Jakarta Raya,next-wave,mature,2024-12-20,-6.15172,106.89157,0.02,,Jakarta Raya
+TH-41,TH,Fashion Island,Fashion Island,Bangkok,prime,new,2025-11-27,13.8264,100.6794,,,Bangkok Metropolis
+SG-15,SG,Sushiro The LINQ @ Beauty World,Sushiro The LINQ @ Beauty World,North West,prime,mature,2025-05-23,1.34087,103.77635,0.0,,North West
+SG-21,SG,Sushiro 100AM,Sushiro 100AM,Central Singapore,prime,new,2026-05-08,1.27511,103.84352,0.0,,Central Singapore
+SG-26,SG,Sushiro Bukit Panjang Plaza,Sushiro Bukit Panjang Plaza,North West,prime,new,2026-10-30,1.38051,103.7641,0.0,,North West
+SG-16,SG,Sushiro Mandai Wildlife Reserve,Sushiro Mandai Wildlife Reserve,North West,prime,mature,2025-06-11,1.40477,103.79052,0.0,,North West
+ID-3,ID,Gandaria City Mall,Gandaria City Mall,Jakarta Raya,next-wave,mature,2024-08-30,-6.24483,106.78437,0.0,,Jakarta Raya
+ID-7,ID,Kota Kasablanka Mall,Kota Kasablanka Mall,Jakarta Raya,next-wave,mature,2025-02-14,-6.22223,106.84256,0.0,,Jakarta Raya
+ID-2,ID,Puri Indah Mall,Puri Indah Mall,Jakarta Raya,next-wave,mature,2024-06-21,-6.1876,106.73414,0.0,,Jakarta Raya
+ID-1,ID,Pondok Indah Mall,Pondok Indah Mall,Jakarta Raya,next-wave,unknown,,-6.26653,106.78446,0.0,,Jakarta Raya
+MY-1,MY,Suria KLCC,Suria KLCC,Kuala Lumpur,next-wave,mature,2025-02-07,3.15697,101.71131,0.0,,Kuala Lumpur
