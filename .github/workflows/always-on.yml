@@ -27,7 +27,11 @@ jobs:
             git add data
             if ! git diff --cached --quiet; then
               git commit -q -m "snapshot $(date -u +%FT%TZ)"
-              for t in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+              for t in 1 2 3; do
+                if git pull --rebase -q; then git push -q && break
+                else git rebase --abort || true; git fetch -q; git reset -q --hard origin/main; break; fi
+                sleep 5
+              done
             fi
             i=$((i+1))
             sleep $(( 600 - ($(date +%s) - start) > 0 ? 600 - ($(date +%s) - start) : 1 ))
